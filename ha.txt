@@ -3,3 +3,5 @@ I'm xxx.
 shen hao jing
 
 git tracks changes of files
+
+stupid!
