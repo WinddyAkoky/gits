@@ -2,4 +2,4 @@ Hello world!
 I'm xxx.
 shen hao jing
 
-git tracks changes
+git tracks changes of files
